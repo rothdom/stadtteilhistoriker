@@ -75,7 +75,7 @@
         }
 
         /* External link styles */
-        a[target="_blank"]:not(.dropdown-content a),
+        a[target="_blank"],
         .post-content a[target="_blank"],
         article a[target="_blank"] {
             text-decoration: underline !important;
@@ -162,60 +162,10 @@
             color: var(--secondary-text);
         }
 
-        /* Override for dropdown trigger */
-        .nav-links .dropdown .dropdown-trigger {
-            text-decoration: none !important;
-            cursor: pointer;
-        }
-
-        .nav-links .dropdown .dropdown-trigger:hover {
-            text-decoration: underline !important;
-        }
-
         /* Nav separator */
         .nav-separator {
             color: var(--secondary-text);
             user-select: none;
-        }
-
-        /* Dropdown styles */
-        .dropdown {
-            position: relative;
-            display: inline-block;
-        }
-
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            top: 100%;
-            left: 0;
-            background-color: var(--bg-color);
-            min-width: 160px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            border: 1px solid var(--border-color);
-            border-radius: 4px;
-            z-index: 1000;
-        }
-
-        .dropdown-content a {
-            display: block;
-            padding: 0.5rem 1rem;
-            white-space: nowrap;
-            text-decoration: none;
-        }
-
-        .dropdown-content a:hover {
-            text-decoration: underline;
-        }
-
-        @media (hover: hover) {
-            .dropdown:hover .dropdown-content {
-                display: block;
-            }
-        }
-
-        .dropdown.active .dropdown-content {
-            display: block;
         }
 
         /* Main content */
@@ -326,15 +276,7 @@
                 <script>document.getElementById('moonToggle').textContent = document.documentElement.dataset.moonState;</script>
             </div>
             <nav class="nav-links">
-                <div class="dropdown" id="bitsDropdown">
-                    <a class="dropdown-trigger">Bits</a>
-                    <div class="dropdown-content">
-                        {{ range .Site.Data.bits.projects }}
-                        <a href="{{ .path }}" target="_blank">{{ .name }}</a>
-                        {{ end }}
-                    </div>
-                </div>
-                <a href="/texts">Texts</a>
+                <a href="/wiki">Wiki</a>
             </nav>
         </div>
     </header>
@@ -379,7 +321,6 @@
             if (!skipStorage) {
                 localStorage.setItem('darkMode', isDark.toString());
             }
-
         }
 
         // Function to handle system preference changes
@@ -438,22 +379,6 @@
     </script>
 
     <script>
-        // Dropdown toggle functionality
-        const dropdown = document.getElementById('bitsDropdown');
-        const trigger = dropdown.querySelector('.dropdown-trigger');
-        
-        trigger.addEventListener('click', (e) => {
-            e.preventDefault();
-            dropdown.classList.toggle('active');
-        });
-
-        // Close dropdown when clicking outside
-        document.addEventListener('click', (e) => {
-            if (!dropdown.contains(e.target)) {
-                dropdown.classList.remove('active');
-            }
-        });
-
         // Add target="_blank" to external links
         document.addEventListener('DOMContentLoaded', function() {
             const currentHost = window.location.hostname;

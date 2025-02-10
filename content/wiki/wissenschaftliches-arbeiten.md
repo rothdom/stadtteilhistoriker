@@ -1,3 +1,7 @@
++++
+date = '2025-02-10T20:56:43+01:00'
+title = 'Wissenschaftliches Arbeiten über Nachweise'
++++
 #### Wissenschaftliches Arbeiten über Nachweise
 - als Erstes Anschauen, wie man eigentlich nach wissenschaftlichem Standard arbeiten kann
 - Wir schauen uns an, wie das in den Naturwissenschaften funktioniert

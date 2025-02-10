@@ -3,7 +3,7 @@
     {{ .Content }}
 
     <div class="posts">
-        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "posts" "photos" "links")) }}
+        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "posts" "photos" "links" "wiki")) }}
         {{ range $paginator.Pages }}
             <article class="post">
                 {{ if eq .Type "photos" }}

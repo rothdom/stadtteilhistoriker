@@ -7,6 +7,11 @@
         {{ $allContent = $allContent | append . }}
     {{ end }}
     
+    {{ $wiki := where .Site.RegularPages "Type" "wiki" }}
+    {{ range $wiki }}
+        {{ $allContent = $allContent | append . }}
+    {{ end }}
+    
     {{ $photos := where .Site.RegularPages "Type" "photos" }}
     {{ range $photos }}
         {{ $allContent = $allContent | append . }}
