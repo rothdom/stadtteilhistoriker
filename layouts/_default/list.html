@@ -1,44 +1,85 @@
 {{ define "main" }}
 <div class="list-content">
-    {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+    <h2 class="section-heading">{{ .Title }}</h2>
     
     {{ .Content }}
 
     <div class="items-list">
-        {{ range .Pages }}
-            <article class="list-item">
-                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-                {{ with .Date }}
-                    <time>{{ .Format "January 2, 2006" }}</time>
+        {{ if or (eq .Section "wiki") (eq .Section "files") }}
+            <ul class="wiki-list">
+                {{ range .Pages }}
+                    <li class="list-item">
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
                 {{ end }}
-                {{ with .Summary }}
-                    <div class="summary">
-                        {{ . | safeHTML }}
-                        {{ if $.Truncated }}
-                            <a href="{{ $.RelPermalink }}">Read more...</a>
-                        {{ end }}
-                    </div>
-                {{ end }}
-            </article>
+            </ul>
+        {{ else }}
+            {{ range .Pages }}
+                <article class="list-item">
+                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                    {{ with .Date }}
+                        <time>✨ {{ .Format "January 2, 2006" }}</time>
+                    {{ end }}
+                    {{ with .Summary }}
+                        <div class="summary">
+                            {{ . | safeHTML }}
+                            {{ if $.Truncated }}
+                                <a href="{{ $.RelPermalink }}">Read more...</a>
+                            {{ end }}
+                        </div>
+                    {{ end }}
+                </article>
+            {{ end }}
         {{ end }}
     </div>
 </div>
 
 <style>
 .list-content {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 1rem;
 }
 
-.list-content h1 {
-    margin-bottom: 2rem;
+.section-heading {
+    font-size: 1.4em;
+    font-weight: 600;
+    margin: 2rem 0 1.5rem;
+    color: var(--text-color);
 }
 
 .items-list {
     margin-top: 2rem;
 }
 
+/* Wiki list specific styles */
+.wiki-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.wiki-list .list-item {
+    margin-bottom: 0.75rem;
+    list-style: none;
+    border: none;
+    padding: 0;
+}
+
+.wiki-list .list-item a {
+    color: var(--text-color);
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: block;
+    font-size: 1.1em;
+}
+
+.wiki-list .list-item a:hover {
+    text-decoration: underline;
+}
+
+
+/* Default list item styles */
 .list-item {
     margin-bottom: 2rem;
     padding-bottom: 2rem;
@@ -84,6 +125,5 @@
 .list-item .summary a:hover {
     color: var(--link-hover-color);
 }
-
 </style>
 {{ end }}
