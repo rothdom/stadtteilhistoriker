@@ -47,7 +47,7 @@
                             {{ .Content | truncate 300 | safeHTML }}
                         {{ end }}
                     </div>
-                    <a href="{{ .RelPermalink }}">Read more...</a>
+                    <a href="{{ .RelPermalink }}">Lesen...</a>
                 {{ else if eq .Type "files" }}
                     <h2><a href="{{ .RelPermalink }}">📄 {{ .Title }}</a></h2>
                     <time>✨ {{ .Date.Format "January 2, 2006" }}</time>
@@ -58,7 +58,7 @@
                             {{ .Content | truncate 300 | safeHTML }}
                         {{ end }}
                     </div>
-                    <a href="{{ .RelPermalink }}">View file...</a>
+                    <a href="{{ .RelPermalink }}">Download...</a>
                 {{ else }}
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <time>✨ {{ .Date.Format "January 2, 2006" }}</time>
