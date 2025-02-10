@@ -1,3 +1,5 @@
-- Todo
+# stadtteilhistoriker.roth-dominik.de
+Site in Hugo
 
-Favicon 
+- brew install hugo
+- hugo server
