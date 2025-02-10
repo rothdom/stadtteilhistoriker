@@ -6,6 +6,21 @@
         {{ $content := replaceRE `<img src="([^"]+)"` (printf `<img src="$1" loading="lazy"`) $content }}
         {{ $content := replaceRE `src="(/[^"]+\.(jpg|jpeg|png|gif))"` (printf `src="{{ with $.Resources.GetMatch "$1" }}{{ (.Resize "1000x").RelPermalink }}{{ else }}$1{{ end }}"`) $content }}
         {{ $content | safeHTML }}
+
+        {{ $resources := .Resources }}
+        {{ if $resources }}
+        <div class="downloads">
+            <h2>Downloads</h2>
+            {{ range $resources }}
+                {{ if ne (path.Ext .Name) ".md" }}
+                    <a href="{{ .RelPermalink }}" class="download-link" download>
+                        <span class="filename">{{ .Name }}</span>
+                        <span class="download-icon">↓</span>
+                    </a>
+                {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
     </div>
 </article>
 
@@ -24,6 +39,44 @@
 
 h1 {
     margin-bottom: 30px;
+}
+
+.downloads {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.downloads h2 {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+.download-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.2s;
+}
+
+.download-link:hover {
+    background-color: #e5e5e5;
+}
+
+.download-icon {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.filename {
+    margin-right: 10px;
+    word-break: break-all;
 }
 </style>
 {{ end }}

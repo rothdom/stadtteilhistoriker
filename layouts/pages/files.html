@@ -1,9 +1,9 @@
 {{ define "main" }}
 <div class="archive">
-    <section class="wiki-section">
-        <h2 class="section-heading">Wiki</h2>
-        {{ $pages := where .Site.RegularPages "Section" "wiki" }}
-        <ul class="wiki-list">
+    <section class="files-section">
+        <h2 class="section-heading">Dateien</h2>
+        {{ $pages := where .Site.RegularPages "Section" "files" }}
+        <ul class="files-list">
             {{ range sort $pages "Params.title" }}
                 <li class="archive-item">
                     <a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
@@ -27,7 +27,7 @@
     color: var(--text-color);
 }
 
-.wiki-list {
+.files-list {
     list-style: none;
     padding: 0;
     margin: 0;

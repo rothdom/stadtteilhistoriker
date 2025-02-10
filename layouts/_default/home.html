@@ -3,7 +3,7 @@
     {{ .Content }}
 
     <div class="posts">
-        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "posts" "photos" "links" "wiki")) }}
+        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "posts" "photos" "links" "wiki" "files")) }}
         {{ range $paginator.Pages }}
             <article class="post">
                 {{ if eq .Type "photos" }}
@@ -37,6 +37,28 @@
                             <time>✨ {{ $date.Format "January 2, 2006" }}</time>
                         </div>
                     {{ end }}
+                {{ else if eq .Type "wiki" }}
+                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                    <time>✨ {{ .Date.Format "January 2, 2006" }}</time>
+                    <div class="post-summary post-content">
+                        {{ with .Summary }}
+                            {{ . | safeHTML }}
+                        {{ else }}
+                            {{ .Content | truncate 300 | safeHTML }}
+                        {{ end }}
+                    </div>
+                    <a href="{{ .RelPermalink }}">Read more...</a>
+                {{ else if eq .Type "files" }}
+                    <h2><a href="{{ .RelPermalink }}">📄 {{ .Title }}</a></h2>
+                    <time>✨ {{ .Date.Format "January 2, 2006" }}</time>
+                    <div class="post-summary post-content">
+                        {{ with .Summary }}
+                            {{ . | safeHTML }}
+                        {{ else }}
+                            {{ .Content | truncate 300 | safeHTML }}
+                        {{ end }}
+                    </div>
+                    <a href="{{ .RelPermalink }}">View file...</a>
                 {{ else }}
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <time>✨ {{ .Date.Format "January 2, 2006" }}</time>
