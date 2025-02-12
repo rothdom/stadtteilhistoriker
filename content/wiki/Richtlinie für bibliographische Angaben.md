@@ -2,8 +2,6 @@
 date = '2025-02-11T20:56:43+01:00'
 title = 'Monographien'
 +++
-
-## Monographien
 ### Monographie
 Nachname, Vorname: Titel. Untertitel, Erscheinungsort <sup>Auflage</sup>Erscheinungsjahr.
 
