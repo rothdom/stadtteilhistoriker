@@ -5,13 +5,14 @@ title = 'Richtlinie für bibliographische Angaben'
 Diese Richtlinie gilt für Literaturangaben in Fußnoten und Literaturverzeichnis.
 Die Angaben können Sie dem Deckblatt und der Impressumsseite eines Buchs entnehmen. Versuchen Sie die Angaben möglichst vollständig zu erfassen.
 
-Bei Fußnoten gilt: Bei der ersten Angabe eines Werks dessen vollständige bibliographische Angabe aufführen. Bei weiteren Verweisen auf dasselbe Werk reicht dann eine Kurzangabe.
+Bei Fußnoten gilt: Bei der ersten Angabe eines Werks dessen vollständige bibliographische Angabe aufführen. Bei weiteren Verweisen auf dasselbe Werk reicht dann eine Kurzangabe.<br>
 Beispiel: Bei der ersten Fußnote schreiben Sie: *Klemperer, Victor: Ich will Zeugnis ablegen bis zum letzten, Tagebücher 1933–1941, Berlin <sup>4</sup>1995, S. 26.* Bei jeder weiteren reicht dann: *Klemperer: Ich will Zeugnis ablegen, S. 36–37.*
+
 ## Monographien
-**Monographie**
+**Monographie**<br>
 Nachname, Vorname: Titel. Untertitel, Erscheinungsort <sup>Auflage</sup>Erscheinungsjahr.
 
-*Beispiel:*
+*Beispiel:*<br>
 *Klemperer, Victor: Ich will Zeugnis ablegen bis zum letzten, Tagebücher 1933–1941, Berlin <sup>4</sup>1995.*
 
 **Monographie mit (mehr als) zwei Autoren und (mehr als) zwei Erscheinungsorten**
