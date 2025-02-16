@@ -1,6 +1,6 @@
 baseURL = 'https://stadtteilhistoriker.roth-dominik.de/'
 languageCode = 'de-De'
-title = 'Stadtteilhistoriker'
+title = 'Stadtteil-Historiker'
 
 [outputs]
 home = ["HTML", "RSS"]
