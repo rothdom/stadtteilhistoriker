@@ -8,6 +8,8 @@ Die Angaben können Sie dem Deckblatt und der Impressumsseite eines Buchs entneh
 Bei Fußnoten gilt: Bei der ersten Angabe eines Werks dessen vollständige bibliographische Angabe aufführen. Bei weiteren Verweisen auf dasselbe Werk reicht dann eine Kurzangabe.
 Beispiel: Bei der ersten Fußnote schreiben Sie: *Klemperer, Victor: Ich will Zeugnis ablegen bis zum letzten, Tagebücher 1933–1941, Berlin <sup>4</sup>1995, S. 26.* Bei jeder weiteren reicht dann: *Klemperer: Ich will Zeugnis ablegen, S. 36–37.*
 
+---
+
 ## Monographien
 ### Monographie
 Nachname, Vorname: Titel. Untertitel, Erscheinungsort <sup>Auflage</sup>Erscheinungsjahr.
@@ -27,6 +29,8 @@ Nachname, Vorname: Titel. Untertitel, Erscheinungsort <sup>Auflage</sup>Erschein
 *Beispiel:*
 *Marti, Sibylle: Strahlen im Kalten Krieg. Nuklearer Alltag und atomarer Notfall in der Schweiz, Paderborn 2021 (= Krieg in der Geschichte 114).*
 
+---
+
 ## Sammelwerke
 ### Sammelwerk mit einem Herausgeber
 Nachname, Vorname (Hg.): Titel. Untertitel, Erscheinungsort <sup>Auflage</sup>Erscheinungsjahr (= Reihentitel Reihennummer).
@@ -39,6 +43,8 @@ Nachname, Vorname/ Nachname, Vorname (Hgg.): Titel. Untertitel, Erscheinungsort 
 
 *Beispiel:*
 *Stein-Hölkeskamp, Elke/ Hölkeskamp, Karl-Joachim (Hgg.): Die griechische Welt. Erinnerungsorte der Antike, München 2010.*
+
+---
 
 ## Mehrbändige Werke
 ### Mehrbändiges Werk
@@ -53,6 +59,8 @@ Nachname, Vorname: Titel des Werks, Bandnummer: Titel des Bands, Erscheinungsort
 *Beispiel:*
 *Winkler, Heinrich August: Der lange Weg nach Westen, Bd. 1: Deutsche Geschichte vom Ende des Alten Reiches bis zum Untergang der Weimarer Republik, München 2000.*
 
+---
+
 ## Aufsätze
 ### Zeitschriftenaufsatz
 Nachname, Vorname: Titel. Untertitel, in: Zeitschriftenname Jahrgang/Ausgabe (Erscheinungsjahr), S. X–Y.
@@ -65,6 +73,8 @@ Nachname, Vorname: Titel. Untertitel, in: Nachname, Vorname/ Nachname, Vorname (
 
 *Beispiel:*
 Schmitt, Martin: Vernetzte Bankenwelt. Computerisierung in der Kreditwirtschaft der Bundesrepublik und der DDR, in: Bösch, Frank (Hg.): Wege in die die digitale Gesellschaft. Computernutzung in der Bundesrepublik 1955–1990, Göttingen 2018 (= Geschichte der Gegenwart 20), S. 126–147.
+
+---
 
 ## Webseiten
 Inhalts- oder Seitentitel, vollständige URL [Letzter Zugriff: Datum].
