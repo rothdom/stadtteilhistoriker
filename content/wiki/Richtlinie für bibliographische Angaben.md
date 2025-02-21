@@ -2,8 +2,8 @@
 date = '2025-02-11T20:56:43+01:00'
 title = 'Richtlinie für bibliographische Angaben'
 +++
-Diese Richtlinie gilt für Literaturangaben in Fußnoten und Literaturverzeichnis.
-Die Angaben können Sie dem Deckblatt und der Impressumsseite eines Buchs entnehmen. Versuchen Sie die Angaben möglichst vollständig zu erfassen.
+Diese Richtlinie gilt für Literatur- und Quellenangaben in Fußnoten und Quellenverzeichnis.
+Die Angaben können Sie bei Literatur dem Deckblatt und der Impressumsseite eines Buchs entnehmen. Versuchen Sie die Angaben möglichst vollständig zu erfassen und einheitlich wiederzugeben.
 
 Bei Fußnoten gilt: Bei der ersten Angabe eines Werks dessen vollständige bibliographische Angabe aufführen. Bei weiteren Verweisen auf dasselbe Werk reicht dann eine Kurzangabe.
 Beispiel: Bei der ersten Fußnote schreiben Sie: *Klemperer, Victor: Ich will Zeugnis ablegen bis zum letzten, Tagebücher 1933–1941, Berlin <sup>4</sup>1995, S. 26.* Bei jeder weiteren reicht dann: *Klemperer: Ich will Zeugnis ablegen, S. 36–37.*
@@ -81,3 +81,30 @@ Inhalts- oder Seitentitel, vollständige URL [Letzter Zugriff: Datum].
 
 *Beispiel:*
 Geschichte: Gemeinde Eberstadt, https://www.eberstadt.de/gemeinde/geschichte [Letzter Zugriff: 12.02.2025].
+
+---
+
+## Quellen
+### Archivquellen
+Archivkürzel, Bestand, (lfd.) Nummer.
+
+*Beispiel:*
+*HWA, 113, 835.*
+
+### Bildquellen
+Nachname, Vorname: Titel, Jahr, Aufbewahrungsort.
+
+*Beispiel:*
+*Eger, Georg Adam: Erinnerungstafel zum Alten Hans, undatiert, Jagdschloss Kranichstein.*
+
+### Karten
+Kartenersteller: Titel, Maßstab, Erscheinungsort Erscheinungsjahr
+
+*Beispiel:*
+*Zamminer, Johannes: Übersichtskarte der Laubdwaldungen bei Darmstadt mit den darin befindlichen Anlagen, Wegen und Schneisen, Maßstab 1:22.000, Darmstadt 1843.*
+
+### Zeitzeugenaussagen
+Nachname, Vorname (Zeitzeuge), Interview durch Nachname, Vorname (Interviewer), Ort, Datum.
+
+*Beispiel:*
+*Mustermann, Max, Interview durch Roth, Dominik, Darmstadt, 22.02.2025.*
