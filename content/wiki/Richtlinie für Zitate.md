@@ -15,3 +15,10 @@ Grundsätzlich zitieren Sie direkt, wenn:
 Sowohl Zitate als auch Paraphrasen müssen im Text durch eine Fußnote belegt werden!
 
 Für die korrekte Wiedergabe bei direkten Zitaten gibt es noch einige Regeln zu beachten, die im Folgenden erläutert werden.
+
+## Grundform von Zitaten
+Alle Passagen aus Literatur und Quellen, die in den eigenen Text übernommen werden, müssen als Zitate kenntlich gemacht werden, indem sie in Anführungszeichen gesetzt werden.
+
+"Landgraf Ernst Ludwig reglementierte die Stadtverwaltung gemäß seiner Auffassung von absoluter Herrschaft mit einer Flut von Vorschriften, gab erneuerte Zunftordnungen heraus und reformierte die Stadtverfassung."[^1]
+
+[^1] Engels, Peter: Darmstadt. Kleine Stadtgeschichte, Regensburg 2019.
