@@ -6,7 +6,6 @@ on:
   push:
     branches: ["main"]
     paths-ignore:
-      - 'import/**'  # Ignore changes to import directory
       - '.github/**'  # Ignore changes to .github directory
 
   # Allows you to run this workflow manually from the Actions tab
