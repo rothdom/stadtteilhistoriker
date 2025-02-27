@@ -19,7 +19,7 @@ on:
   
   # Triggered by other workflows
   repository_dispatch:
-    types: [trigger-hugo-autopilot]
+    types: [hugo-autopilot-build]
     
 jobs:
   autopilot:
@@ -28,3 +28,5 @@ jobs:
       hugo_version_file: '.hugoversion'
       enable_git_info: true
       merge_method: 'squash'
+
+      
