@@ -27,4 +27,3 @@ Site in Hugo
 - `.hugoversion`: Contains the Hugo version used by GitHub Actions
 - Custom Action: Checks weekly for new Hugo versions and creates PRs
 - Direct auto-merge implementation in the update-hugo workflow
- 
