@@ -23,7 +23,6 @@ Site in Hugo
 - Configured to group all GitHub Actions updates into a single PR
 -  Using GitHub's recommended best practices with `dependabot/fetch-metadata` to safely auto-merge
 
-
 ### Hugo Updates
 - `.hugoversion`: Contains the Hugo version used by GitHub Actions
 - Custom Action: Checks weekly for new Hugo versions and creates PRs
