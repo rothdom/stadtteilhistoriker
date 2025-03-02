@@ -13,3 +13,4 @@ Site in Hugo
 ## CI/CD and GitHub Actions
 
 - Uses https://github.com/chriopter/hugo-autopilot 
+ 
