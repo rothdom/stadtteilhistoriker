@@ -26,3 +26,14 @@ Franz, Eckhart G./ Lux, Thomas: Einführung in die Archivkunde, Darmstadt <sup>9
 
 ## Aufarbeitung historischer Themen in neuen Medien
 Bunnenberg, Christian/ Steffen, Nils (Hgg.): Geschichte auf YouTube. Neue Herausforderungen für Geschichtsvermittlung und historische Bildung, Berlin/Boston 2019 (= Medien der Geschichte 2).
+
+## Literatur zu Zeitzeugeninterviews
+Andresen, Knut/ Apel, Linde/ Heinsohn, Kirsten (Hgg): Es gilt das gesprochene Wort. Oral History und Zeitgeschichte heute, Göttingen 2015.<br>
+Henke-Bockschatz, Gerhard: Oral History im Geschichtsunterricht, Schwalbach am Taunus 2014.<br>
+Obertreis, Julia (Hg.): Oral History, Stuttgart 2012 (=Basistexte Geschichte 8).<br>
+Perks, Robert/ Thomson, Alistair (Hgg): The Oral History Reader, London/ New York <sup>2</sup>2006.<br>
+Ritchie, Donald A. (Hg.): The Oxford Handbook of Oral History, Oxford 2012.
+
+## Literatur zu Experteninterviews
+Bogner, Alexander/ Littig, Beate/ Menz, Wolfgang (Hgg.): Experteninterviews. Theorien, Methoden, Anwendungsfelder, Wiesbaden <sup>3</sup>2009.<br>
+Kaiser, Robert: Qualitative Experteninterviews. Konzeptionelle Grundlagen und praktische Durchführung, Wiesbaden 2014.
