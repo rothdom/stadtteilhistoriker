@@ -4,7 +4,8 @@ title = 'Strukturierungen für unterschiedliche Formate'
 +++
 
 Eine geeignete Basis für die Entwicklung einer Struktur für die Präsentation Ihrer Projektergebnisse entsteht durch die 
-Formulierung einer zentralen Forschungsfrage. Näheres hierzu ist folgender Seite zu entnehmen: <HYPERLINK>
+Formulierung einer zentralen Forschungsfrage. Näheres hierzu ist folgender Seite zu entnehmen: [Forschungsfrage finden](https://stadtteilhistoriker.roth-dominik.de/wiki/forschungsfrage-finden)
+
 Mittels der Forschungsfrage wurde bestimmt, welchem Thema, Ort und Zeitraum Sie sich in Ihrem Projekt widmen möchten. Dies hilft 
 dabei zu identifizieren, welche Themen im Einzelnen für die Beantwortung ihrer Frage berücksichtigt werden und sich somit in der 
 Strukturierung Ihrer Projektergebnisse wiederfinden sollten.
@@ -38,39 +39,31 @@ Die Gliederung eines Vortrags, in welchem die zentralen Ergebnisse präsentiert 
 
 Auch wenn sie einen ähnlichen Zweck erfüllt, darf die Gliederung bei Vorträgen gröber ausfallen als etwa das Inhaltsverzeichnis bei schriftlichen Arbeiten. Sie sollte das Interesse der Zuhörer wecken und ihnen Orientierung bieten, muss aber noch nicht zu viel verraten.
 
-#### Struktur schaffen: Führungen
-- Wie schaut es bei Führungen aus?
-- hier werden Sie sich einen Führungsplan überlegen müssen
-- gemeint ist vor allem: Welche Stationen werde ich bei der Führung haben und was möchte ich an den einzelnen Stationen vermitteln?
-- hier sollte die Fragestellung in einer Schwerpunktsetzung für die Führungsinhalte resultieren
-- Stationsreihenfolge nicht nur an Wegen, sondern auch an Fragestellung orientieren (gleich: siehe Beispiel)
-- Zuhörer mitnehmen, in dem man auf vorige Stationen verweist
-- Und bei den Inhalten die Fragestellung das Erzählte bestimmt
-#### Beispiel: Führungsplan
-- hier ein Beispiel aus der jetzigen Staffel
-- Herr Fröhner mit seinem Forschungsprojekt zur Familie Scholl
-- Idee: Stadtrundgang auf den Spuren dieser Bildhauerdynastie
-- Planung zur Führung nun abhängig von der Fragestellung und damit von der Schwerpunktsetzung:
-	- geht es um die Biografien der einzelnen Künstler und deren Leben hier in Darmstadt?
-	- geht es vor allem um deren Werke, womit hier jeweils gearbeitet wurde und was sie zeigen und welche Kunstepochen sich in ihnen abbilden
-	- oder geht es vor allem darum, die Spuren der Familie im heutigen Darmstadt zu entdecken: Also Werke im Stadtbild, Standorte früherer Werke, die heute nicht mehr zu sehen sind, frühere Wohnorte der Familie?
-- anhand der Entscheidung für einen Schwerpunkt wird eine Entscheidung möglich, welche Stationen in der Stadt aufgesucht werden
-- was dabei jeweils vermittelt wird
-- Und: Wie eine sinnvolle Reihenfolge für die einzelnen Stationen aussieht
-#### Struktur schaffen: Websites
-- Herausforderung: Keine inhaltliche Reihenfolge wie in einem Buch, bei einem Vortrag oder bei einer Führung festlegbar
-- Sie bestimmen somit nicht die Reihenfolge der Vermittlung von Inhalten
-- An die Stelle einer Einleitung tritt eine Startseite, die zum Erkunden der Website anleiten soll
-- Die Aufarbeitung der Fragestellung bildet sich in der Menüführung und den Unterseiten ab
-	- Das verleiht einer Website ihre Struktur
-- Bedenken Sie die Interaktivität einer Website: Überlegen Sie, wo über Links auf andere Unterseiten referenziert wird.
-#### Beispiele für digitale Ausstellungen
-- hier: große Gestaltungsspielräume
-- kein erdachtes, sondern ein paar konkrete Beispiele für digitale Ausstellungen
-- können wir uns jetzt nicht näher ansehen, aber: Links auf den Folien
-- unterschiedliche Varianten, wie diese Websites aufgebaut sind
-- Erste: Kombination aus klassischer Menüführung und "langen" Seiten mit Abschnitten und unterschiedlichen Elementen, die auf andere Seiten verweisen
-- zwei untere Beispiele: sogenannte "One-Pager"
-- also: Nicht mehrere Unterseiten und ein Menü, um zwischen diesen zu wechseln
-- sondern: jeweils eine "lange" Seite, die sich beim Weiterscrollen aufbaut
-- gesamter Inhalt ist somit auf einer interaktiven Seite untergebracht, die nochmals in Abschnitte unterteilt ist
+## Führungen
+Die Strukturierung einer Führung erfolgt über einen Führungsplan. Damit gemeint ist die Entwicklung eines Plans, welche Stationen bei einer Führung in der Stadt oder in einem Museum genutzt werden und was an den einzelnen Stationen vermittelt wird. Die zuvor formulierte Fragestellung des Projekts kann für die Schwerpunktsetzung der Führungsinhalte herangezogen werden. Denn die Stationsreihenfolge sollte sich nicht nur an kurzen Laufwegen, sondern auch am inhaltlichen Schwerpunkt orientieren.
+
+Die durchgängige Aufmerksamkeit der Teilnehmer einer Führung lässt sich dadurch gewährleisten, dass eine klare Orientierung an einer Fragestellung oder einem Thema während der Führung erkennbar bleibt.
+
+#### Beispiel
+Idee für eine Führung: *Stadtrundgang auf den Spuren der Bildhauerdynastie Scholl in Darmstadt*
+
+Die Planung zu einer solchen Führung ist nun abhängig von der Fragestellung und damit von der Schwerpunktsetzung: Geht es...<br>
+a) um die Biografien der einzelnen Künstler und deren Leben hier in Darmstadt?<br>
+b) vor allem um deren Werke, womit hier jeweils gearbeitet wurde und was sie zeigen und welche Kunstepochen sich in ihnen abbilden?<br>
+c) darum, die Spuren der Familie im heutigen Darmstadt zu entdecken: Also Werke im Stadtbild, Standorte früherer Werke, die heute nicht mehr zu sehen sind, oder frühere Wohnorte der Familie?
+
+Anhand der Entscheidung für einen Schwerpunkt wird eine Entscheidung möglich, welche Stationen in der Stadt aufgesucht werden, was dabei jeweils vermittelt wird und wie eine sinnvolle Reihenfolge für die einzelnen Stationen aussieht.
+
+## Websites
+Hier besteht die besondere Herausforderung, dass Sie die Reihenfolge der Inhalte weniger strikt vorgeben können wie in einem Buch, bei einem Vortrag oder bei einer Führung. Nutzer einer Website können mal mehr, mal weniger auf einer Seite nach unten scrollen oder mit dem Klick auf einen Link schnell auf eine andere Seite springen. Das bietet Ihnen allerdings die Gelegenheit, durch sinnvoll platzierte Verweise auf andere Inhalte oder Unterseiten das Verhalten des Nutzers zu beeinflussen und ihm so bei der Navigation der Website zu helfen.
+An die Stelle einer Einleitung tritt eine Startseite, die zum Erkunden der Website anleiten soll. Die Aufarbeitung der Fragestellung Ihres Projekts bildet sich dann über den Seitenaufbau sowie die Menüführung und die Unterseiten der Website ab.
+
+#### Beispiele
+Bei Websites ergeben sich durch die mögliche Interaktivität und Multimedialität (Text, Foto, Audio, Video) große Gestaltungsspielräume. Im Folgenden finden Sie ein paar Beispiele für digitale Ausstellungen. Diese sind jeweils sehr aufwendig gestaltet, können Ihnen aber eine Inspiration für einzelne Elemente einer Website und deren Aufbau bieten.
+
+Beispiel für eine Kombination aus klassischer Menüführung und langen Seiten mit Abschnitten und unterschiedlichen Elementen, die auf andere Seiten verweisen:<br>
+[„#StolenMemory“ der Arolsen Archives](https://www.stolenmemory.org)
+
+Beispiele für sogenannte „One-Pager“, bei denen der gesamte Inhalt auf einer interaktiven Seite, die nochmals in Abschnitte unterteilt ist, untergebracht wird:<br>
+[„Kinderemigration aus Frankfurt“ der Deutschen Nationalbibliothek](https://ausstellungen.deutsche-digitale-bibliothek.de/kinderemigration1933-1945/#s0)<br>
+[„Leben am Toten Meer“ des Staatlichen Museums für Archäologie Chemnitz](https://www.leben-am-toten-meer.de)
