@@ -29,7 +29,7 @@ Sie benannt einen **konkreten Untersuchungsgegenstand**: Im Projekt sollen städ
 Sie schafft eine **räumliche und zeitliche Eingrenzung** geschaffen: Es geht um die Darmstädter Innenstadt und im Näheren um
 den Zeitraum von 1945 bis 1960. Mit dem Fragewort "Inwiefern" wird eine **offene Frage** formuliert, die differenzierte 
 Antworten zulässt. Denn die Frage lässt sich nicht mit Ja oder Nein beantworten und fragt zugleich nicht suggestiv
-nach positiven oder negativen Veränderungen ( sie gibt also nicht direkt eine wertende Antwort mit). Die Frage lässt sich 
+nach positiven oder negativen Veränderungen – sie gibt also nicht direkt eine wertende Antwort mit. Die Frage lässt sich 
 mit der richtigen Quellenauswahl, insbesondere auch mit städtischen Archivquellen, **gut bearbeiten**. Und zuletzt lässt sie 
 eine **Verbindung von Lokalgeschichte und großer Geschichte** zu. Sie benennt zwar explizit einen lokalhistorischen Zuschnitt, 
 bezieht sich aber mit dem Thema von Wiederaufbau von Altem oder Nutzung für Neues auf eine überregional aufkommende Problematik 
