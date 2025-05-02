@@ -19,6 +19,8 @@ Eine gute Forschungsfrage für Ihre stadtteilgeschichtliche Arbeit sollte…
 6. komplex genug sein, um eine tiefergehende Untersuchung zu rechtfertigen
 7. in einem Satz formuliert werden können.
 8. offen gestellt sein (nicht mit Ja oder Nein beantwortbar).
+
+---
    
 ## Beispiel für eine gelungene Forschungsfrage
 *„Inwiefern spiegeln die städtebaulichen Veränderungen in der Darmstädter Innenstadt zwischen 1945 und 1960 die Spannungen 
@@ -34,6 +36,8 @@ mit der richtigen Quellenauswahl, insbesondere auch mit städtischen Archivquell
 eine **Verbindung von Lokalgeschichte und großer Geschichte** zu. Sie benennt zwar explizit einen lokalhistorischen Zuschnitt, 
 bezieht sich aber mit dem Thema von Wiederaufbau von Altem oder Nutzung für Neues auf eine überregional aufkommende Problematik 
 nach dem Zweiten Weltkrieg.
+
+---
 
 ## Beispiele für problematische Fragestellungen und mögliche Verbesserungen
 #### Beispiel 1
@@ -62,6 +66,8 @@ Gefüge Darmstadts beigetragen?“*
 
 Verbesserung: Die Frage lässt nun das Ergebnis der Untersuchung offen und präzisiert dabei gleichzeitig, welche Veränderungen im 
 Projekt untersucht werden sollen. Zusätzlich wurde ein klarer zeitlicher Zuschnitt gewählt.
+
+---
 
 ## Von der Fragestellung zur Strukturierung
 Die Entwicklung einer Fragestellung hilft Ihnen dabei, den Weg zu Ihren eigenen Ergebnissen zu strukturieren. Die präzise 
