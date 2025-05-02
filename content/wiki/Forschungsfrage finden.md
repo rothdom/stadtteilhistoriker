@@ -73,4 +73,4 @@ Gleichzeitig hilft Ihnen dieser Schritt dabei zu bewerten, welche Literatur und 
 und welche Sie außen vor lassen können, da sie in eine andere Richtung führen würden, als Sie es mit Ihrer Frage beabsichtigen.
 
 Aus dieser Festlegung entsteht dann auch ein Weg für eine sinnvolle Struktur, egal ob nun für eine schriftliche Arbeit, 
-eine Führung oder eine Website. Näheres hierzu ist folgender Seite zu entnehmen: <HYPERLINK>
+eine Führung oder eine Website. Näheres hierzu ist folgender Seite zu entnehmen: [Strukturierungen für unterschiedliche Formate](https://stadtteilhistoriker.roth-dominik.de/wiki/strukturierungen-für-unterschiedliche-formate)
