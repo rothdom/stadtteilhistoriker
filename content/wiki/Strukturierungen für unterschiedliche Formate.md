@@ -11,9 +11,8 @@ Strukturierung Ihrer Projektergebnisse wiederfinden sollten.
 
 ## Schriftliche Arbeiten
 Die  Struktur eines Buches oder längeren Textes lässt sich am einfachsten mit einem Blick in dessen Kapitelunterteilung bzw. 
-dessen Inhaltsverzeichnis erkennen.<br>
-In einem Inhaltsverzeichnis sollten bereits die Schritte zur Beantwortung der zentralen Forschungsfrage Ihres Projekts sichtbar 
-werden. Denn die Fragestellung bildet den roten Faden, an dem sich orientiert wird.<br>
+dessen Inhaltsverzeichnis erkennen. In einem Inhaltsverzeichnis sollten bereits die Schritte zur Beantwortung der zentralen Forschungsfrage Ihres Projekts sichtbar werden. Denn die Fragestellung bildet den roten Faden, an dem sich orientiert wird.
+
 Die Kapitelunterteilung sollte nicht zu kleinteilig ausfallen. Beschränken Sie sich auf maximal zwei Ebenen. Die Inhalte des 
 Kapitels sollten immer auch mit dessen Überschrift übereinstimmen: Sie sollten nicht zu weit abschweifen und genauso wenig das
 mit der Überschrift Angekündigte unbeantwortet lassen. Einem „getäuschten“ Leser wird die Lust an der weiteren Lektüre vergehen.
@@ -22,27 +21,23 @@ mit der Überschrift Angekündigte unbeantwortet lassen. Einem „getäuschten�
 Fragestellung des Projekts: *„Inwiefern spiegeln die städtebaulichen Veränderungen in der Darmstädter Innenstadt zwischen 1945 
 und 1960 die Spannungen zwischen Wiederaufbau im historischen Stil und moderner Stadtplanung wider?“*
 
-**Das dazugehärige Inhaltsverzeichnis einer schriftlichen Ausarbeitung könnte wie folgt aussehen:**
+Das dazugehärige Inhaltsverzeichnis einer schriftlichen Ausarbeitung könnte wie folgt aussehen:
 <img width="820" alt="image" src="https://github.com/user-attachments/assets/42d0fe5a-03cb-4b2e-99ee-52200d15c1b1" />
 
+In der **Einleitung** wird zum zum Thema hingeführt und die zentrale Forschungsfrage benannt. Wenn es um den Wiederaufbau geht sollten auch dessen Vorbedingungen umrissen werden. Dies geschieht in den beiden Unterkapiteln von **Kapitel 2**: Wie sah Darmstadt vor 1945 aus? Was wurde dann alles durch die Bombenangriffe im Krieg zerstört? **Kapitel 3** schafft die Grundlage für eine Zusammenführung von überregionaler Geschichte und lokalen Ereignissen, indem geklärt wird, wie der städtische Wiederaufbau anderswo in Deutschland aussah. Kapitel 4 und 5 stellen dann den Schwerpunkt der eigenen Forschungsarbeit dar.
+In **Kapitel 4** wird bestimmt, wer eigentlich die zentralen Akteure waren, die den Wiederaufbau steuerten, was die wichtigsten Bauvorhaben haben und wie sie das Stadtbild veränderten. **Kapitel 5** fragt dann nach Debatten und Spannungen. Damit wird die Frage behandelt, wie eigentlich öffentlich über den besten Weg zum städtischen Wiederaufbau diskutiert wurde. Im abschließenden **Fazit** werden die wichtigsten Erkenntnisse zusammengetragen, um eine Antwort auf die ausgehende Forschungsfrage zu liefern.
 
-- Einleitung: Hinführung zum Thema, Nennung der Forschungsfrage
-- Frage nach den Vorbedingungen, wenn es um Wiederaufbau geht - siehe Kapitel 2 und Unterkapitel: Wie sah Darmstadt vor 1945 aus? Was wurde dann alles durch die Bombenangriffe im Krieg zerstört?
-- Kapitel 3: Zusammenführung von überregionaler Geschichte und lokalen Ereignissen: Wie sah anderswo in Deutschland der städtische Wiederaufbau aus? --> Schafft eine Vorlage, über Besonderheiten und Gemeinsamkeiten zwischen Darmstadt und anderen Städten nachzudenken
-- Kapitel 4 und 5 dann: wichtigste Forschungsarbeit
-- Kapitel 4: Bestimmung, wer eigentlich die zentralen Akteure waren, die den Wiederaufbau steuerten - und: Was waren denn die wichtigsten Bauvorhaben und wie haben sie das Stadtbild verändert
-- Kapitel 5: Wir fragen auch nach Spannungen: Damit Behandlung der Frage, wie eigentlich öffentlich über den besten Weg zum städtischen Wiederaufbau diskutiert wurde
-- Fazit: Zusammentragen der wichtigsten Erkenntnisse, Antwort auf die Forschungsfrage liefern!
-#### Struktur schaffen: Vorträge
-- solch eine Form von Inhaltsverzeichnis auch als Gliederung bei Vorträgen wichtig
-- hier haben Sie klar die Abfolge der Inhalte in der Hand: Beachten Sie hier eine sinnvolle Reihenfolge der Themen, damit Ihnen die Zuhörer auch folgen können
-	- also thematisch aufeinander aufbauen
-- auch hier wie in einer "Einleitung" am Anfang: Explizite Nennung des Themas, bzw. einer Forschungsfrage, der Sie sich gewidmet haben und wie Sie in Ihrer Forschung vorgegangen sind
-- lassen Sie Zuhörer wissen, wann zum nächsten Abschnitt übergegangen wird: bietet Orientierung, worum es gerade geht
-#### Ein simples Beispiel für eine Gliederung...
-- hier: einfach gemacht
-- Gliederung des heutigen Monatstreffens
-- Maßgabe: Gliederung darf auch bei Vorträgen gern gröber als z.B. bei schriftlichen Arbeiten bleiben
+## Vorträge
+Eine Form von Inhaltsverzeichnis ähnlich zu dem von schriftlichen Arbeiten ist auch als Gliederung bei Vorträgen wichtig. Bei Vorträgen haben Sie die Abfolge der Inhalte klar in der Hand: Beachten Sie dabei eine sinnvolle Reihenfolge der Themen, damit Ihnen die Zuhörer auch folgen können. Die Inhalte sollten also thematisch aufeinander aufbauen. Auch bei einem Vortrag sollte eine Form Einleitung zu Beginn stehen, in der das Thema oder eine Forschungsfrage genannt wird, der Sie sich gewidmet haben und wie Sie bei Ihrem Projekt vorgegangen sind. Lassen Sie dann während Ihres Votrags Ihre Zuhörer wissen, wann zum nächsten Abschnitt übergegangen wird. Das bietet eine Orientierung, worum es gerade geht.
+
+#### Beispiel
+Die Fragestellung des Projekts lautete erneut: *„Inwiefern spiegeln die städtebaulichen Veränderungen in der Darmstädter Innenstadt zwischen 1945 und 1960 die Spannungen zwischen Wiederaufbau im historischen Stil und moderner Stadtplanung wider?“*
+
+Die Gliederung eines Vortrags, in welchem die zentralen Ergebnisse präsentiert werden, könnte wie folgt aussehen:
+<img width="769" alt="Bildschirmfoto 2025-05-02 um 14 17 17" src="https://github.com/user-attachments/assets/a4b185a6-d41c-45bc-924f-777167633adc" />
+
+Auch wenn sie einen ähnlichen Zweck erfüllt, darf die Gliederung bei Vorträgen gröber ausfallen als etwa das Inhaltsverzeichnis bei schriftlichen Arbeiten. Sie sollte das Interesse der Zuhörer wecken und ihnen Orientierung bieten, muss aber noch nicht zu viel verraten.
+
 #### Struktur schaffen: Führungen
 - Wie schaut es bei Führungen aus?
 - hier werden Sie sich einen Führungsplan überlegen müssen
