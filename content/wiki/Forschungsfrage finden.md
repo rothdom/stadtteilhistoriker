@@ -66,11 +66,11 @@ Projekt untersucht werden sollen. Zusätzlich wurde ein klarer zeitlicher Zuschn
 ## Von der Fragestellung zur Strukturierung
 Die Entwicklung einer Fragestellung hilft Ihnen dabei, den Weg zu Ihren eigenen Ergebnissen zu strukturieren. Die präzise 
 Formulierung von Thema, Zeitraum und lokalem Zuschnitt hilft dabei festzustellen, welche Themen im Einzelnen für die 
-Beantwortung Ihrer Frage berücksichtigt werden sollten, aber auch: welche entsprechend irrelevant sind und damit wegfallen 
+Beantwortung Ihrer Frage berücksichtigt werden sollten, aber auch welche entsprechend irrelevant sind und damit wegfallen 
 können.
 
 Gleichzeitig hilft Ihnen dieser Schritt dabei zu bewerten, welche Literatur und welche Quellen für Ihr Projekt wichtig werden 
 und welche Sie außen vor lassen können, da sie in eine andere Richtung führen würden, als Sie es mit Ihrer Frage beabsichtigen.
 
-Aus dieser Festlegung entsteht dann auch ein Weg für eine sinnvolle Struktur: Egal ob nun für eine schriftliche Arbeit, 
+Aus dieser Festlegung entsteht dann auch ein Weg für eine sinnvolle Struktur, egal ob nun für eine schriftliche Arbeit, 
 eine Führung oder eine Website. Näheres hierzu ist folgender Seite zu entnehmen: <HYPERLINK>
