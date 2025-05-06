@@ -27,7 +27,7 @@ Eine gute Forschungsfrage für Ihre stadtteilgeschichtliche Arbeit sollte…
 zwischen Wiederaufbau im historischen Stil und moderner Stadtplanung wider?“*
 
 Die Frage erscheint zunächst kompliziert, erfüllt aber als Forschungsfrage alle wichtigen Absichten.
-- Sie benannt einen **konkreten Untersuchungsgegenstand**: Im Projekt sollen städtebauliche Veränderungen untersucht werden.
+- Sie benennt einen **konkreten Untersuchungsgegenstand**: Im Projekt sollen städtebauliche Veränderungen untersucht werden.
 - Sie schafft eine **räumliche und zeitliche Eingrenzung**: Es geht um die Darmstädter Innenstadt und im Näheren um den Zeitraum von 1945 bis 1960.
 - Mit dem Fragewort "Inwiefern" formulieren Sie eine **offene Frage**, die sich nicht mit Ja oder Nein beantworten lässt, sondern differenzierte Antworten zulässt. Sie fragt zugleich nicht suggestiv
 nach positiven oder negativen Veränderungen – sie gibt also nicht direkt eine wertende Antwort mit.
