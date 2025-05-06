@@ -67,7 +67,7 @@ Idee für eine Führung: *Stadtrundgang auf den Spuren der Bildhauerdynastie Sch
 Die Planung zu einer solchen Führung hängt von der Fragestellung ab und damit davon, welche Schwerpunkte Sie setzen: Geht es Ihnen...
 - um die Biografien der einzelnen Künstler und deren Leben hier in Darmstadt?
 - vor allem um deren Werke, womit hier jeweils gearbeitet wurde und was sie zeigen und welche Kunstepochen sich in ihnen abbilden?
-c) darum, die Spuren der Familie im heutigen Darmstadt zu entdecken? Also die Werke und ihre Funktion im Stadtbild, die Standorte früherer Werke, die heute nicht mehr zu sehen sind, oder die Wohnorte oder Ateliers der Familie?
+- darum, die Spuren der Familie im heutigen Darmstadt zu entdecken? Also die Werke und ihre Funktion im Stadtbild, die Standorte früherer Werke, die heute nicht mehr zu sehen sind, oder die Wohnorte oder Ateliers der Familie?
 
 Wenn Sie wissen, welche Schwerpunkte Sie setzen möchten, können Sie entscheiden, welche Stationen in der Stadt Sie aufsuchen wollen, was Sie dabei jeweils vermitteln wollen und wie eine sinnvolle Reihenfolge für die einzelnen Stationen aussieht.
 
