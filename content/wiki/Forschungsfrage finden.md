@@ -3,7 +3,7 @@ date = '2025-05-02T08:56:43+01:00'
 title = 'Forschungsfrage finden'
 +++
 Eine zentrale Forschungsfrage hilft Ihnen dabei, Ihr Projekt und das dafür gesammelte Material zu ordnen und zu strukturieren.
-Sie bildet das Fundament Ihrer stadtteilgeschichtlichen Arbeit, indem sie präzise formuliert, was Sie untersuchen möchten. Damit
+Sie bildet das Fundament Ihrer stadtteilgeschichtlichen Arbeit, indem sie präzise formuliert, was Sie untersuchen. Damit
 weist Ihnen die Forschungsfrage einen Weg durch Ihren Forschungsprozess.<br>
 Sie hilft Ihnen dabei, Ihre Recherche zu fokussieren, eine passende Methodik und Struktur für Ihr Projekt zu wählen und damit
 auch Ihren Zeitrahmen realistisch zu planen.<br>
@@ -11,14 +11,14 @@ Eine geeignete Forschungsfrage bietet Ihnen somit den berühmten **roten Faden**
 
 ## Merkmale einer guten Forschungsfrage
 Eine gute Forschungsfrage für Ihre stadtteilgeschichtliche Arbeit sollte…
-1. präzise formuliert sein.
-2. auf ein spezifisches Thema der Stadtteilgeschichte begrenzt sein.
-3. relevant für die Lokalgeschichte sein.
-4. mit vorhandenen Quellen und Methoden erforschbar sein.
-5. im Rahmen Ihres Projekts beantwortbar sein.
-6. komplex genug sein, um eine tiefergehende Untersuchung zu rechtfertigen
-7. in einem Satz formuliert werden können.
-8. offen gestellt sein (nicht mit Ja oder Nein beantwortbar).
+- präzise formuliert sein.
+- auf ein spezifisches Thema der Stadtteilgeschichte begrenzt sein.
+- relevant für die Lokalgeschichte sein.
+- mit vorhandenen Quellen und Methoden erforschbar sein.
+- im Rahmen Ihres Projekts beantwortbar sein.
+- komplex genug sein, um eine tiefergehende Untersuchung zu rechtfertigen
+- in einem Satz formuliert werden können.
+- offen gestellt sein (nicht mit Ja oder Nein beantwortbar).
 
 ---
    
@@ -26,16 +26,13 @@ Eine gute Forschungsfrage für Ihre stadtteilgeschichtliche Arbeit sollte…
 *„Inwiefern spiegeln die städtebaulichen Veränderungen in der Darmstädter Innenstadt zwischen 1945 und 1960 die Spannungen 
 zwischen Wiederaufbau im historischen Stil und moderner Stadtplanung wider?“*
 
-Die Frage erscheint zunächst kompliziert, erfüllt aber als Forschungsfrage die wichtigsten Absichten.
-Sie benannt einen **konkreten Untersuchungsgegenstand**: Im Projekt sollen städtebauliche Veränderungen untersucht werden.
-Sie schafft eine **räumliche und zeitliche Eingrenzung** geschaffen: Es geht um die Darmstädter Innenstadt und im Näheren um
-den Zeitraum von 1945 bis 1960. Mit dem Fragewort "Inwiefern" wird eine **offene Frage** formuliert, die differenzierte 
-Antworten zulässt. Denn die Frage lässt sich nicht mit Ja oder Nein beantworten und fragt zugleich nicht suggestiv
-nach positiven oder negativen Veränderungen – sie gibt also nicht direkt eine wertende Antwort mit. Die Frage lässt sich 
-mit der richtigen Quellenauswahl, insbesondere auch mit städtischen Archivquellen, **gut bearbeiten**. Und zuletzt lässt sie 
-eine **Verbindung von Lokalgeschichte und großer Geschichte** zu. Sie benennt zwar explizit einen lokalhistorischen Zuschnitt, 
-bezieht sich aber mit dem Thema von Wiederaufbau von Altem oder Nutzung für Neues auf eine überregional aufkommende Problematik 
-nach dem Zweiten Weltkrieg.
+Die Frage erscheint zunächst kompliziert, erfüllt aber als Forschungsfrage alle wichtigen Absichten.
+- Sie benannt einen **konkreten Untersuchungsgegenstand**: Im Projekt sollen städtebauliche Veränderungen untersucht werden.
+- Sie schafft eine **räumliche und zeitliche Eingrenzung**: Es geht um die Darmstädter Innenstadt und im Näheren um den Zeitraum von 1945 bis 1960.
+- Mit dem Fragewort "Inwiefern" formulieren Sie eine **offene Frage**, die sich nicht mit Ja oder Nein beantworten lässt, sondern differenzierte Antworten zulässt. Sie fragt zugleich nicht suggestiv
+nach positiven oder negativen Veränderungen – sie gibt also nicht direkt eine wertende Antwort mit.
+- Die Frage lässt sich mit der richtigen Quellenauswahl, insbesondere auch mit städtischen Archivquellen, **gut bearbeiten**.
+- Nicht zuletzt lässt sie eine **Verbindung von Lokalgeschichte und großer Geschichte** zu. Sie bezieht sich zwar ausdrücklich auf die Lokalgeschichte, verweist aber mit dem Thema von Wiederaufbau von Altem oder Nutzung für Neues auf eine überregional aufkommende Problematik nach dem Zweiten Weltkrieg.
 
 ---
 
@@ -44,14 +41,14 @@ nach dem Zweiten Weltkrieg.
 *„Wie hat sich der Stadtteil Bessungen verändert?“*
 
 Problem: Die Frage ist in jeder Hinsicht unspezifisch. Das würde für den Bearbeitenden selbst zum Problem. Denn sie gibt weder 
-einen zeitlichen Rahmen für das Projekt noch ist klar, welche Veränderungen überhaupt betrachtet werden sollen. Besser wäre 
+einen zeitlichen Rahmen für das Projekt, noch ist klar, welche Veränderungen überhaupt betrachtet werden sollen. Besser wäre 
 zum Beispiel folgende Frage geeignet:
 
 *„Welche Auswirkungen hatte die Eingemeindung Bessungens auf dessen Bevölkerungsstruktur und kulturelles Leben bis Mitte des 
 20. Jahrhunderts?“*
 
-Verbesserung: Es wurde ein zeitlicher Zuschnitt gewählt - von der Eingemeindung Bessungens 1888 bis Mitte des 20. Jahrhunderts. 
-Zudem wurd nun präzisiert, um welche Veränderungen es im Projekt geht. Untersucht werden sollen die Struktur der Einwohnerschaft 
+Verbesserung: Es wurde ein zeitlicher Zuschnitt gewählt – von der Eingemeindung Bessungens 1888 bis Mitte des 20. Jahrhunderts. 
+Zudem wurde nun präzisiert, um welche Veränderungen es im Projekt geht. Untersucht werden sollen die Struktur der Einwohnerschaft 
 und das kulturelle Leben des Stadtteils, also Vereine, Feiern, Lokale, usw.
 
 #### Beispiel 2
@@ -75,7 +72,7 @@ Formulierung von Thema, Zeitraum und lokalem Zuschnitt hilft dabei festzustellen
 Beantwortung Ihrer Frage berücksichtigt werden sollten, aber auch welche entsprechend irrelevant sind und damit wegfallen 
 können.
 
-Gleichzeitig hilft Ihnen dieser Schritt dabei zu bewerten, welche Literatur und welche Quellen für Ihr Projekt wichtig werden 
+Gleichzeitig hilft Ihnen dieser Schritt, zu bewerten, welche Literatur und welche Quellen für Ihr Projekt wichtig werden 
 und welche Sie außen vor lassen können, da sie in eine andere Richtung führen würden, als Sie es mit Ihrer Frage beabsichtigen.
 
 Aus dieser Festlegung entsteht dann auch ein Weg für eine sinnvolle Struktur, egal ob nun für eine schriftliche Arbeit, 
