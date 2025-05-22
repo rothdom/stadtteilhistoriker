@@ -58,7 +58,7 @@ Problem: Hier wird wertend nach einem undefinierbaren und nur subjektiv einzuord
 auch schlicht mit Ja oder Nein zu beantworten. Zudem fehlt ein zeitlicher Zuschnitt. Besser wäre zum Beispiel folgende Frage 
 geeignet:
 
-*„Inwiefern haben die Eingemeindung 1937 und die städtebaulichen Maßnahmen bis 1970 zur Integration Wixhausens in das städtische 
+*„Inwiefern haben die Eingemeindung 1977 und die städtebaulichen Maßnahmen bis 2000 zur Integration Wixhausens in das städtische 
 Gefüge Darmstadts beigetragen?“*
 
 Verbesserung: Die Frage lässt nun das Ergebnis der Untersuchung offen und präzisiert dabei gleichzeitig, welche Veränderungen im 
