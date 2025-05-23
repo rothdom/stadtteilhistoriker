@@ -32,7 +32,7 @@ Ein Werk wird gemeinfrei, wenn dessen **Urheber seit mehr als 70 Jahren tot** is
 
 **Freie Lizenzen**
 
-Manche Werke sind unter einer sogenannten Creative Commons (CC)-Lizenz veröffentlicht. Zwischen den einzelnen Lizenzen gibt es allerdings noch ein paar Unterschiede, was Sie bei der Nutzung beachten müssen. Die häufigsten Typen sind:
+Manche Werke sind unter einer sogenannten Creative Commons (CC)-Lizenz veröffentlicht. Zwischen den einzelnen Lizenzen gibt es allerdings noch ein paar Unterschiede, die Sie bei der Nutzung beachten müssen. Die häufigsten Typen sind:
 - CC BY (Der Name des Urhebers und die Art der Lizenz müssen benannt werden – z.B. Foto: Max Mustermann, CC BY 4.0)
 - CC BY-SA (Der Name des Urhebers und die Art der Lizenz müssen benannt werden. Zusätzlich muss eine Publiaktion, in der Sie ein Werk mit dieser Lizenz nutzen, unter der gleichen CC BY-SA-Lizenz veröffentlicht werden.)
 - CC0 (Das Werk wurde als gemeinfrei erklärt und darf daher ohne Bedingungen genutzt werden.)
