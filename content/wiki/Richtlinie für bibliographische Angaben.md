@@ -98,7 +98,7 @@ Nachname, Vorname: Titel, Jahr, Aufbewahrungsort.
 *Eger, Georg Adam: Erinnerungstafel zum Alten Hans, undatiert, Jagdschloss Kranichstein.*
 
 ### Karten
-Kartenersteller: Titel, Maßstab, Erscheinungsort Erscheinungsjahr
+Kartenersteller: Titel, Maßstab, Erscheinungsort Erscheinungsjahr.
 
 *Beispiel:*
 *Zamminer, Johannes: Übersichtskarte der Laubdwaldungen bei Darmstadt mit den darin befindlichen Anlagen, Wegen und Schneisen, Maßstab 1:22.000, Darmstadt 1843.*
