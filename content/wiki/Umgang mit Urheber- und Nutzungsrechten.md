@@ -24,7 +24,7 @@ Grundsätzlich sind alle "persönlichen geistigen Schöpfungen" einer Person dur
 
 ## Gemeinfreie Werke – Was ist vom Urheberrecht ausgenommen?
 **Erlöschen des Urheberrechts**<br>
-Ein Werk wird gemeinfrei, wenn dessen **Urheber seit mehr als 70 Jahren tot** ist. ([§64 UrhG](https://www.gesetze-im-internet.de/urhg/__64.html)) Dann darf das Werk im Orignal ohne Genehmigung genutzt werden. Ausnahmen entstehen teils bei bearbeiteten Versionen des Originals (z.B. die Modernisierung eines Textes) oder bei Digitalisaten in Archiven oder Bibliotheken. Diese können erneut geschützt sein.
+Ein Werk wird gemeinfrei, wenn dessen **Urheber seit mehr als 70 Jahren tot** ist. ([§64 UrhG](https://www.gesetze-im-internet.de/urhg/__64.html)) Dann darf das Werk im Original ohne Genehmigung genutzt werden. Ausnahmen entstehen teils bei bearbeiteten Versionen des Originals (z.B. die Modernisierung eines Textes) oder bei Digitalisaten in Archiven oder Bibliotheken. Diese können erneut geschützt sein.
 
 **Freie Lizenzen**<br>
 Manche Werke sind unter einer sogenannten **Creative Commons (CC)-Lizenz** veröffentlicht. Zwischen den einzelnen Lizenzen gibt es allerdings noch ein paar Unterschiede, die Sie bei der Nutzung beachten müssen. Die häufigsten Typen sind:
