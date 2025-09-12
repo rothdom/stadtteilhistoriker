@@ -8,7 +8,7 @@ Die Arbeit mit Quellen und historischen Materialien verlangt Sorgfalt – nicht 
 ---
 
 ## Was ist urheberrechtlich geschützt?
-Grundsätzlich sind alle "persönlichen geistigen Schöpfüngen" einer Person durch das Urheberrecht **geschützt**. ([§2 UrhG](https://www.gesetze-im-internet.de/urhg/__2.html)) Dazu zählen unter anderem:
+Grundsätzlich sind alle "persönlichen geistigen Schöpfungen" einer Person durch das Urheberrecht **geschützt**. ([§2 UrhG](https://www.gesetze-im-internet.de/urhg/__2.html)) Dazu zählen unter anderem:
 - Texte (wie Bücher, Zeitungsartikel und sprachliche Inhalte auf Webseiten)
 - Bilder, Fotografien und Postkarten
 - Kartenmaterial
