@@ -41,8 +41,18 @@ Ihre eigenen Texte, Fotos und Video- oder Audioaufnahmen sind unproblematisch, d
 
 ---
 
+## Zitatrecht
+
+Im Urheberrecht sind auch die Voraussetzungen dafür geregelt, wie Sie Textpassagen oder Bilder aus fremden Werken zitieren dürfen: Ein Zitat darf **ohne Erlaubnis** verwendet werden, wenn Sie es dazu nutzen, **eine eigene Aussage zu belegen oder diese eingehend zu analysieren**. ([§51 UrhG](https://www.gesetze-im-internet.de/urhg/__51.html)) – Das entspricht ohnehin einer guten wissenschaftlichen Praxis. Dazu gehören auch die Voraussetzungen, direkte schriftliche Zitate mit Anführungszeichen zu kennzeichnen und alle Zitate mit einer vollständigen Quellenangabe zu versehen.
+
+Wichtig ist, Text- oder Bildzitate **nicht als bloße Illustration zu nutzen, sondern sich inhaltlich hiermit auseinanderzusetzen**.
+Beispiele: Ein Auszug aus einem Zeitungsartikel kann verwendet werden, wenn er im Text analysiert oder kommentiert wird. Oder in einer kunsthistorischen Publikation werden Gemälde von Rembrandt hinsichtlich ihrer Symbolik und Wirkung untersucht.
+
+---
+
 ## Fremde Werke verwenden
-Nicht gemeinfreie Werke, ob nun Fotos, Videos oder ganze Texte, dürfen in der Regel nicht ohne Erlaubnis verwendet werden. **Hierfür müssen Sie sich das Nutzungsrecht vom Rechteinhaber einholen.** Ein solches Nutzungsrecht erlaubt es, ein fremdes Werk auf eine bestimmte Weise zu verwenden, zum Beispiel es zu drucken, digital zu veröffentlichen oder zu verändern.
+Sollten Sie nicht gemeinfreie Werke, ob nun Fotos, Videos oder **ganze** Texte (wie etwa vollständige Zeitungsartikel) rein zur Illustration verwenden wollen, dann **müssen Sie sich das Nutzungsrecht vom Rechteinhaber einholen.**
+Ein solches Nutzungsrecht erlaubt es, ein fremdes Werk auf eine bestimmte Weise zu verwenden, zum Beispiel es zu drucken, digital zu veröffentlichen oder zu verändern.
 
 Wenn Sie ein fremdes Medium wie ein Foto oder eine Postkarte in Ihrer eigenen Veröffentlichung nutzen möchten, sollten Sie daher wie folgt vorgehen:
 
@@ -56,13 +66,4 @@ Sobald Sie den Rechteinhaber ermittelt haben, versuchen Sie Kontakt herzustellen
 Archivieren Sie die schriftliche Nutzungserlaubnis. Diese sollte möglichst ein Datum, den Verwendungszweck und potenzielle weitere Bedingungen der Nutzung beinhalten.
 
 **Tipp: Nutzen Sie Medien aus Archiven**<br>
-Um Schwierigkeiten bei der Ermittlung von Rechteinhabern und bei der Einholung von Nutzungsausrechten aus dem Weg zu gehen, nutzen Sie möglichst Quellen und Medien aus Archiven. Diese kennen die Rechtelage der bei ihnen verwahrten Dokumente und Objekte und werden Ihnen dementsprechend sichere Auskünfte geben. Zudem kennen die Darmstädter Archive das Projekt der Stadtteil-Historiker und werden Ihnen meist ohne weitere Vorbehalte Nutzungsrechte einräumen.
-
----
-
-## Zitatrecht
-
-Im Urheberrecht sind auch die Voraussetzungen dafür geregelt, wie Sie Textpassagen oder Bilder aus fremden Werken zitieren dürfen: Ein Zitat darf **ohne Erlaubnis** verwendet werden, wenn Sie es dazu nutzen, **eine eigene Aussage zu belegen oder dieses eingehend zu analysieren**. ([§51 UrhG](https://www.gesetze-im-internet.de/urhg/__51.html)) – Das entspricht ohnehin einer guten wissenschaftlichen Praxis. Dazu gehören auch die Voraussetzungen, direkte schriftliche Zitate mit Anführungszeichen zu kennzeichnen und alle Zitate mit einer vollständigen Quellenangabe zu versehen.
-
-Wichtig ist, Text- oder Bildzitate **nicht als bloße Illustration zu nutzen, sondern sich inhaltlich hiermit auseinanderzusetzen**.
-Beispiele: Ein Auszug aus einem Zeitungsartikel kann verwendet werden, wenn er im Text analysiert oder kommentiert wird. Oder in einer kunsthistorischen Publikation werden Gemälde von Rembrandt hinsichtlich ihrer Symbolik und Wirkung untersucht.
+Um Schwierigkeiten bei der Ermittlung von Rechteinhabern und bei der Einholung von Nutzungsrechten aus dem Weg zu gehen, nutzen Sie möglichst Quellen und Medien aus Archiven. Diese kennen die Rechtelage der bei ihnen verwahrten Dokumente und Objekte und werden Ihnen dementsprechend sichere Auskünfte geben. Zudem kennen die Darmstädter Archive das Projekt der Stadtteil-Historiker und werden Ihnen meist ohne weitere Vorbehalte Nutzungsrechte einräumen.
