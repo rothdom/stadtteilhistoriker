@@ -2,7 +2,7 @@
 date = '2026-03-30T08:58:43+01:00'
 title = 'Kurzfassung für die Abschlussdokumentation'
 +++
-In der Abschlussdokumentation jeder Staffel der Stadtteil-Historiker werden die individuellen Projekte aller Teilnehmenden und die zentralen Projektergebnisse in einem kurzen Aufsatz vorgestellt. Diese Kurzfassung ist von jeder Teilnehmerin und jedem Teilnehmer selbst zu erstellen. Bitte berücksichtigen Sie hierbei die folgenden Vorgaben:
+In der Abschlussdokumentation jeder Staffel der Stadtteil-Historiker werden die individuellen Projekte aller Teilnehmenden und die zentralen Projektergebnisse in einem kurzen Aufsatz vorgestellt. Diese Kurzfassung ist von jeder Teilnehmerin und jedem Teilnehmer selbst zu erstellen. Die Dotter-Stiftung behält sich dabei ein abschließendes Korrektorat und Lektorat vor. Bitte berücksichtigen Sie zusätzlich die folgenden Vorgaben:
 ## Inhalte
 Wesentlicher Inhalt Ihrer Kurzfassung sollten die zentralen Projektergebnisse sein. Damit sich die Leserinnen und Leser der Abschlussdokumentation jedoch einen besseren Eindruck davon verschaffen können, wie Sie während Ihres Projekts vorgegangen sind, leiten Sie Ihren Text am besten mit der Beantwortung der folgenden Fragen ein:
 - Stand Ihr Projekt unter einer bestimmten Leitfrage? Was wollten Sie durch Ihr Projekt herausfinden und der Öffentlichkeit vermitteln? Auf welcher Zeitspanne, Örtlichkeit oder Einrichtung lag der Fokus Ihres Projekts?
@@ -16,12 +16,13 @@ Beschränken Sie sich bei der Einleitung auf einige Sätze, da das Hauptaugenmer
 ---
 
 ## Länge
-Orientieren Sie sich bitte an einer maximalen Länge von **12.000 Zeichen inklusive Leerzeichen** für den Fließtext. Dies entspricht vier bis fünf gedruckten Seiten in der Abschlussdokumentation.
+Orientieren Sie sich bitte an einer maximalen Länge von **12.000 Zeichen inklusive Leerzeichen** für den Fließtext. Dies entspricht vier gedruckten Seiten in der Abschlussdokumentation.
 
 ---
 
 ## Abbildungen
-Jede Kurzfassung soll mit passenden Abbildungen versehen werden. Suchen Sie hierfür bitte maximal zwölf passende Bilder, Fotos oder Grafiken heraus. Achten Sie bitte darauf, dass die Abbildungen in Relation zu dem stehen, was im Fließtext beschrieben wird. Versehen Sie die Abbildungen mit passenden Bildunterschriften, in denen auch die Herkunft des Bildes angegeben wird.
+Jede Kurzfassung soll mit passenden Abbildungen versehen werden. Suchen Sie hierfür bitte **maximal** zwölf passende Bilder, Fotos oder Grafiken heraus. Achten Sie bitte darauf, dass die Abbildungen in Relation zu dem stehen, was im Fließtext beschrieben wird.
+Verschicken Sie die vorgeschlagenen Abbildungen bitte als separate Dateien. Geben Sie bitte zudem innerhalb der Textdatei Ihrer Kurzfassung oder in einem eigenständigen Dokument passende Bildunterschriften an, in denen auch die Herkunft des Bildes angegeben wird.
 
 Zudem sind die folgenden Vorgaben einzuhalten, damit Ihre Abbildungen gedruckt werden können:
 1. Alle Abbildungen sollten in einer Auflösung von 300 DPI (Pixel pro Zoll) vorliegen.
