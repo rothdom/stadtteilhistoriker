@@ -1,0 +1,95 @@
+name: Hugo Updater
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Check Hugo version
+        id: check
+        run: |
+          current=$(cat .hugoversion)
+          latest=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name' | sed 's/^v//')
+
+          if [ -z "$latest" ] || [ "$latest" = "null" ]; then
+            echo "Failed to fetch latest Hugo version"
+            exit 0
+          fi
+
+          echo "Current: $current, Latest: $latest"
+
+          if [ "$latest" != "$current" ]; then
+            echo "needs_update=true" >> "$GITHUB_OUTPUT"
+            echo "current=$current" >> "$GITHUB_OUTPUT"
+            echo "latest=$latest" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Update version file
+        if: steps.check.outputs.needs_update == 'true'
+        run: echo "${{ steps.check.outputs.latest }}" > .hugoversion
+
+      - name: Create Pull Request
+        if: steps.check.outputs.needs_update == 'true'
+        id: create-pr
+        uses: peter-evans/create-pull-request@v8
+        with:
+          commit-message: "Update Hugo from ${{ steps.check.outputs.current }} to ${{ steps.check.outputs.latest }}"
+          title: "Update Hugo: ${{ steps.check.outputs.current }} -> ${{ steps.check.outputs.latest }}"
+          body: |
+            This PR updates Hugo from version ${{ steps.check.outputs.current }} to ${{ steps.check.outputs.latest }}.
+
+            Changelog: https://github.com/gohugoio/hugo/releases/tag/v${{ steps.check.outputs.latest }}
+
+            This PR was automatically created by the Hugo Updater workflow.
+          branch: update-hugo
+          delete-branch: true
+          labels: |
+            dependencies
+            automated
+
+      - name: Auto-merge Pull Request
+        if: steps.create-pr.outputs.pull-request-number
+        uses: pascalgn/automerge-action@v0.16.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MERGE_LABELS: ""
+          MERGE_METHOD: squash
+          MERGE_COMMIT_MESSAGE: pull-request-title
+          PULL_REQUEST: ${{ steps.create-pr.outputs.pull-request-number }}
+
+      - name: Report status
+        run: |
+          if [ "${{ steps.check.outputs.needs_update }}" = "true" ] && [ -n "${{ steps.create-pr.outputs.pull-request-number }}" ]; then
+            echo "Pull request #${{ steps.create-pr.outputs.pull-request-number }} created successfully"
+            echo "URL: ${{ steps.create-pr.outputs.pull-request-url }}"
+          elif [ "${{ steps.check.outputs.needs_update }}" = "true" ]; then
+            echo "Failed to create pull request"
+            exit 1
+          else
+            echo "No Hugo update needed"
+          fi
+
+      - name: Trigger Hugo Builder
+        if: steps.create-pr.outputs.pull-request-number
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: hugo-build
+          repository: ${{ github.repository }}
+          client-payload: '{"clear_pending": true}'
