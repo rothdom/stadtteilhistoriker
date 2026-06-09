@@ -10,7 +10,3 @@ Site in Hugo
 - Wiki: Included in Top Menu Wiki Link
 - Files: Shows all file attachments in Bundles & Included in Top Menu Link
 
-## CI/CD and GitHub Actions
-
-- Uses https://github.com/chriopter/hugo-autopilot 
- 
